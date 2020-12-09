@@ -2,5 +2,6 @@ initial commit
 
 I added feature 1
 i edited feature 1
+I added a new feature in here yay in the new Feature branch
 
 This is feature 2
